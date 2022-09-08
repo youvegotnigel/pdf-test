@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="C:/dev/my-automation-projects/pdf-test/src/main/java/com/pdf/test/PDFTest.java(failed)" verbose="0">
+    <classes>
+      <class name="com.pdf.test.PDFTest">
+        <methods>
+          <include name="test2"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.pdf.test.PDFTest -->
+    </classes>
+  </test> <!-- C:/dev/my-automation-projects/pdf-test/src/main/java/com/pdf/test/PDFTest.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

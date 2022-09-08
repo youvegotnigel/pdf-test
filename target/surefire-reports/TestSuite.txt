@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 22.864 s <<< FAILURE! - in TestSuite
+com.pdf.test.PDFTest.test2  Time elapsed: 10.441 s  <<< FAILURE!
+java.lang.AssertionError: expected [https://www.google.com/] but found [https://www.orimi.com/pdf-test.pdf]
+	at com.pdf.test.PDFTest.test2(PDFTest.java:44)
+
